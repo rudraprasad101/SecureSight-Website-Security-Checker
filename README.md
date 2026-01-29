@@ -1,4 +1,4 @@
-# 🔒 AI Web Security Checker
+# 🔒 SecureSight:Web Security Checker
 
 An easy-to-use web application that scans websites for common security issues and provides AI-powered explanations.
 
